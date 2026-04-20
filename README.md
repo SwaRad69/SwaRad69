@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="rickroll.gif" width="400"/>
+  <img src="assets/rickroll.gif" width="400"/>
 </p>
